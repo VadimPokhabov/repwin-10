@@ -1,3 +1,5 @@
 import funcs
 
-funcs()
+a = funcs
+print(a)
+
